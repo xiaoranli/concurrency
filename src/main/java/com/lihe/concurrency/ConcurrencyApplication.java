@@ -8,7 +8,7 @@ public class ConcurrencyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConcurrencyApplication.class, args);
-		System.out.println("你好" );
+		System.out.println("你好shjie" );
 	}
 
 }
